@@ -3,4 +3,18 @@ body {
     font-family: Arial, sans-serif;
     background-color: #f3f3f3;
   }
+  header {
+    background-color: #7a1212;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
   
+  .contenedor {
+    max-width: 800px;
+    margin: 40px auto;
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  }  
