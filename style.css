@@ -4,10 +4,12 @@ body {
     background-color: #f3f3f3;
   }
   header {
-    background-color: #7a1212;
+    background-image: url(franja.png);
+    background-size: cover;
+    background-position: center;
     color: white;
-    padding: 20px;
-    text-align: center;
+    padding: 25px 5px;                  
+    text-align: right;
   }
   
   .contenedor {
@@ -19,9 +21,9 @@ body {
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
   }  
   header h1 {
-    font-size: 20px;     /* Tamaño más pequeño */
-    text-align: right;   /* Alineado a la derecha */
-    margin: 0;           /* Elimina márgenes innecesarios */
+    font-size: 20px;     
+    text-align: right;   
+    margin: 0;           
   }
   h2 {
     color: #7a1212;
